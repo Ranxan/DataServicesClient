@@ -1,0 +1,22 @@
+{
+  "name": "DataServiceClient",
+  "version": "0.1.0",
+  "summary": "A short description of DataServiceClient.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ranxan4ix@gmail.com/DataServiceClient",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ranxan4ix@gmail.com": "ranxan4ix@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ranxan4ix@gmail.com/DataServiceClient.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DataServiceClient/Classes/**/*"
+}

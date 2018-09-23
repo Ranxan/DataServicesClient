@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'DataServiceClient'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of DataServiceClient.'
+  s.summary          = 'Data Service Client library essentially helps to fetch data from different sources like Web API or Local Database.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

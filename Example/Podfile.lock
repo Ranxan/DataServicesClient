@@ -1,0 +1,16 @@
+PODS:
+  - DataServiceClient (0.1.0)
+
+DEPENDENCIES:
+  - DataServiceClient (from `../`)
+
+EXTERNAL SOURCES:
+  DataServiceClient:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DataServiceClient: d7aa12f86a5bd7a7e7874070eb61f93089c8422b
+
+PODFILE CHECKSUM: 923c5a3ddd44bb36a42ee699ef21d58fc4768871
+
+COCOAPODS: 1.4.0
