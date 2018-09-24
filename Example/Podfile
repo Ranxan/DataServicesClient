@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DataServiceClient_Example' do
+  pod 'DataServiceClient', :path => '../'
+
+  target 'DataServiceClient_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
